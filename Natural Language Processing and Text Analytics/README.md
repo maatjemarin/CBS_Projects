@@ -9,3 +9,6 @@ This course covers the following topics:
 - Information Retrieval
 - Relation Extraction, Question Answering, Dialog systems and Chatbots
 - Web Crawling and Link Analysis
+
+
+The aim of this project was to show our knowledge of and capabilities in applying different Natural Language Processing techniques from the Machine Learning domain. For this project we test the performance of four different machine learning models in classifying tweets into one of two categories: emergency tweets or non-emergency tweets. We compare a Naive Bayes Classifier, a Support Vector Machine, a Recurrent Neural Network, and a pretrained BERT model, each of which were trained on 7,613 tweets. Preprocessing steps such as tokenization, stop words removal, and lemmatization were employed in order to make the input fit for use.
