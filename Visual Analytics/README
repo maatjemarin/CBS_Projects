@@ -1,1 +1,12 @@
 This course covered the following topics:
+
+- Databases and SQL
+- Data Management: Concept of Extract, Transform, Load (ETL). Developing workflows for handling and tranforming raw data.
+- Relationship between data and visualization, Data Extraction, Environment, Display, Manipulation of view.
+- Colours in Visualization: Display, Use of colour scales.
+- Visual Salience and Finding Information: Creating an effective dashboard.
+- Evaluation of Dashboards: Usability Inspection Methods
+- SQL
+- Alteryx
+- Tableau
+- PowerBI
